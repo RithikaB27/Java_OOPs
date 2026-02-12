@@ -1,0 +1,1 @@
+//Encapsulation is the process of binding the data into a single unit
