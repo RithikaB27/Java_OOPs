@@ -1,0 +1,1 @@
+//In inheritance, the child class inherits the properties and methods of the parents class.
